@@ -1,1 +1,4 @@
 # Gaming-and-Mental-Health-Analysis-Report
+
+This Tableau project, Gaming and Mental Health Analysis Report, explores the relationship between gaming habits and mental health conditions using a dataset downloaded from Kaggle. The dashboard visualizes key metrics such as average spending, gaming hours, age demographics, health risk index, productivity scores, sleep quality, academic performance, and mood states. It categorizes gamers into risk levels (low, moderate, high and severe) and highlights correlations between excessive gaming duration and negative outcomes like poor sleep quality, reduced academic performance, and increased health risks. This project aims to provide actionable insights for educators, parents, and health professionals by presenting a clear, interactive view of how gaming behaviours impact mental health.
+
